@@ -23,8 +23,8 @@ Final year CSE student with proficiency in DSA and full-stack development, passi
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/sdfhafjkeh;klfe;hf](https://www.linkedin.com/in/rohitash-garhwal-a524ba287/)) 
-[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)]([https://linkedin.com/in/sdfhafjkeh;klfe;hf](https://leetcode.com/u/rohitashgarhwal707/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/rohitash-garhwal-a524ba287/]) 
+[![Leetcode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)]([https://leetcode.com/u/rohitashgarhwal707/]) 
 
 
 # 🖥️ Languages:
